@@ -1,0 +1,68 @@
+.covid{
+    color: rgb(248, 240, 240);
+    background-color: black;
+}
+.navbar{
+    background-color:#03A9F4 !important;
+    position: relative;
+    top:-20px;
+}
+.nav-link{
+color: white !important;
+font-weight: bold;
+}
+.carousel{
+    position: relative;
+    top:-20px;
+}
+.carousel-item img{
+    height: 500px;
+}
+.same{
+    background-color: rgb(142, 169, 250);
+    color: white;
+}
+.bundle{
+    padding-top: 40px;
+    border-bottom: 2px solid black;
+}
+.offer img{
+    width: 300px;
+    height: 260px;
+}
+.offer{
+    padding-top: 20px;
+}
+.bg{
+    background-color: rgb(241, 239, 239);
+    
+}
+.cate{
+    display: flex;
+    float: left;
+}
+.cat{
+    padding-top: 30px;
+}
+.cat a{
+    color: black;
+
+}
+.catee{
+    background-color: black;
+}
+.wrap{
+    color: black;
+    background-color: rgb(189, 189, 189);
+}
+.list li{
+    list-style: none;
+}
+.list a{
+    color: black;
+    text-decoration: none;
+}
+.footer{
+    text-align: center;
+    background-color: cadetblue;
+}
